@@ -6,6 +6,7 @@ class HTMLExtractor:
     """
     Initializes an instance of the HTMLExtractor class.
     """
+
     """
     Sets up the WebDriver and navigates to the specified URL.
     Parameters:
@@ -23,7 +24,7 @@ class HTMLExtractor:
     Returns:
         str: The cleaned HTML content.
     """
-    
+
     def __init__(self):
         self.driver = None
 
@@ -52,10 +53,10 @@ class HTMLExtractor:
         """
         page_source = self.driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
-        for tag in soup(['style', 'script','svg','iframe']):
+        for tag in soup(["style", "script", "svg", "iframe"]):
             tag.decompose()
         cleaned_html = soup.prettify()
-        
+
         return cleaned_html
 
     def get_html(self, url):
