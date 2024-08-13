@@ -5,10 +5,22 @@ PROMPT = """
             "As an expert in analyzing articles for speech synthesis, your task is to extract and structure the text of the article. REMOVE ALL  the HTML BALISES like href or <a> or anything start with < , i want it to be only Text to read like News and make sure each picture is related to the context of its paraphraph"
             "Please split the text into paragraphs and identify the picture from the site that is most related to each paragraph. "
             "Make sure each paragraph is readable and understandable when its read as a speech in news "
-            "The response should be formatted as follows:\n\n"
-            "[Paragraph 1: <Text of paragraph 1> : Picture related to it: <URL of picture 1> , "
-            "Paragraph 2: <Text of paragraph 2> : Picture related to it: <URL of picture 2>, ...]\n\n"
-            "Keep the text in its original French language.\n\n"
+            "The response should be formatted as follows:"
+                ```json
+                [
+                    {
+                        text: "Paragraph 1 text",
+                        image: "https://www.example.com/image1.jpg"
+                    },
+                    {
+                        text: "Paragraph 2 text",
+                        image: "https://www.example.com/image2.jpg"
+                    },
+                    ...
+                ]
+                ```
+            "
+            "Keep the text in its original French language."
             f"HTML Content:\n{html_content}"
         """
 
