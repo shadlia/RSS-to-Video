@@ -1,1 +1,159 @@
-[Paragraph 1: Malgré son divorce avec Luana, Paul Belmondo met un point d'honneur à passer de moments privilégiés avec leurs trois enfants. Le week-end dernier, le comédien et père de famille a participé à un événement sportif de renom avec son fils Victor comme il l'a rapporté sur ses réseaux sociaux. Preuve que leur belle complicité est toujours au rendez-vous. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759301-un-beau-moment-pere-et-fils-qui-a-ravi-d-1200x630-3.jpg , Paragraph 2: Pour Paul Belmondo , la famille, c'est sacré ! Alors que sa récente séparation avec Luana Belmondo a en a surpris plus d'un, le célèbre pilote automobile s'est octroyé le week-end dernier un moment privilégié avec leur fils Victor, qui s'illustre dans l'univers du 7ème art. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759301-un-beau-moment-pere-et-fils-qui-a-ravi-d-100x90-3.jpg , Paragraph 3: Samedi 10 août, des milliers de coureurs amateurs, anonymes mais aussi des personnalités, ont participé au Marathon pour tous organisé pour la première fois dans le cadre des Jeux Olympiques de Paris. Paul et Victor Belmondo, tous deux inscrits, n'ont pas fait le même parcours. Le plus long qui traversait neuf villes en région parisienne faisait pas moins de 42 kilomètres, la distance d'un marathon. Victor a relevé son défi tandis que son père a préféré être plus raisonnable en courant 10 kilomètres. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759289-parmi-des-milliers-de-coureurs-amateurs-100x90-4.jpg , Paragraph 4: Le début de la course a été actée en début de soirée depuis l'Hôtel de Ville de la capitale française. L'occasion pour les participants d'admirer dans l'effort les plus beaux monuments de la Ville de l'Amour. Victor et Paul Belmondo aimant se surpasser semblent avoir été heureux d'avoir relevé ce défi de taille. Pas peu fier, le grand ami d'Anthony Delon n'a pas manqué de s'immortaliser à ses côtés avec leurs belles médailles. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759302-le-pilote-automobile-a-bien-evidemment-i-100x90-4.jpg , Paragraph 5: "Bravo mon Victor pour ta performance au Marathon pour tous des JO heureux d'avoir pu partager un événement sportif, même si pour moi c'était que le 10km", a écrit le fils de Jean-Paul Belmondo en légende de son cliché relayé sur Instagram qui a suscité de multiples réactions. Une jolie performance de Victor qui a suscité une grande fierté du côté de sa maman. Via sa story, Luana Belmondo a également photographié la médaille de son garçon : "Bravo mon Victor !" : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759306-luana-belmondo-a-egalement-salue-l-explo-100x90-4.jpg , Paragraph 6: En cette période estivale, l'ex-marraine de Jade Hallyday a pu souffler avec les siens sur l'Île de Ré. Une parenthèse enchantée parfaite pour retrouver un peu de paix en cette période délicate. "Longtemps que je n'avais pas autant dormi", avait-elle notamment commenté sur la Toile tout en relayant de belles images de leur séjour. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759284-alors-que-son-divorce-avec-luana-belmond-100x90-4.jpg , Paragraph 7: Ses trois enfants Alessandro, Victor et Giacomo fruits de ses amours passées avec Paul Belmondo étaient aussi de la partie ! Sans oublier son petit-fils Mahé né de la relation de son aîné avec Méliné Ristiguian et qui suffit à faire son bonheur. De belles vacances bien méritées en l'absence du patriarche qui semblent avoir enchanté l'ensemble de son clan. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759287-aimant-relever-des-defils-le-tandem-a-p-100x90-4.jpg , Paragraph 8: Paul et Luana avancent séparément mais sans oublier que le plus important dans tout ça reste leurs enfants. : Picture related to it: https://static1.purepeople.com/articles/0/52/62/00/@/7759283-exclusif-paul-belmondo-et-son-ex-femme-100x90-4.jpg ]
+```json
+{
+ "article_text": "Malgré son divorce avec Luana, Paul Belmondo met un point d'honneur à passer de moments privilégiés avec leurs trois enfants. Le week-end dernier, le comédien et père de famille a participé à un événement sportif de renom avec son fils Victor comme il l'a rapporté sur ses réseaux sociaux. Preuve que leur belle complicité est toujours au rendez-vous.\n\nPour Paul Belmondo, la famille, c'est sacré ! Alors que sa récente séparation avec Luana Belmondo a en a surpris plus d'un, le célèbre pilote automobile s'est octroyé le week-end dernier un moment privilégié avec leur fils Victor, qui s'illustre dans l'univers du 7ème art.\n\nSamedi 10 août, des milliers de coureurs amateurs, anonymes mais aussi des personnalités, ont participé au Marathon pour tous organisé pour la première fois dans le cadre des Jeux Olympiques de Paris. Paul et Victor Belmondo, tous deux inscrits, n'ont pas fait le même parcours. Le plus long qui traversait neuf villes en région parisienne faisait pas moins de 42 kilomètres, la distance d'un marathon. Victor a relevé son défi tandis que son père a préféré être plus raisonnable en courant 10 kilomètres.\n\nLe début de la course a été actée en début de soirée depuis l'Hôtel de Ville de la capitale française. L'occasion pour les participants d'admirer dans l'effort les plus beaux monuments de la Ville de l'Amour. Victor et Paul Belmondo aimant se surpasser semblent avoir été heureux d'avoir relevé ce défi de taille. Pas peu fier, le grand ami d'Anthony Delon n'a pas manqué de s'immortaliser à ses côtés avec leurs belles médailles.\n\n\"Bravo mon Victor pour ta performance au Marathon pour tous des JO heureux d'avoir pu partager un événement sportif, même si pour moi c'était que le 10km\", a écrit le fils de Jean-Paul Belmondo en légende de son cliché relayé sur Instagram qui a suscité de multiples réactions. Une jolie performance de Victor qui a suscité une grande fierté du côté de sa maman. Via sa story, Luana Belmondo a également photographié la médaille de son garçon : \"Bravo mon Victor !\" (voir notre diaporama). \n\nEn cette période estivale, l'ex-marraine de Jade Hallyday a pu souffler avec les siens sur l'Île de Ré. Une parenthèse enchantée parfaite pour retrouver un peu de paix en cette période délicate. \"Longtemps que je n'avais pas autant dormi\", avait-elle notamment commenté sur la Toile tout en relayant de belles images de leur séjour.\n\nSes trois enfants Alessandro, Victor et Giacomo fruits de ses amours passées avec Paul Belmondo étaient aussi de la partie ! Sans oublier son petit-fils Mahé né de la relation de son aîné avec Méliné Ristiguian et qui suffit à faire son bonheur. De belles vacances bien méritées en l'absence du patriarche qui semblent avoir enchanté l'ensemble de son clan.\n\nPaul et Luana avancent séparément mais sans oublier que le plus important dans tout ça reste leurs enfants.",
+ "images_urls": [
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759301-un-beau-moment-pere-et-fils-qui-a-ravi-d-580x0-3.jpg",
+   "text": "Un beau moment père et fils qui a ravi des milliers d'internautes !\nVictor et Paul Belmondo - Le boxeur français T.Yoka s'incline face au belge R.Merhy à Roland-Garros © Veeren / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759284-alors-que-son-divorce-avec-luana-belmond-580x0-4.jpg",
+   "text": "Alors que son divorce avec Luana Belmondo continue de faire couler beaucoup d'encre, Paul Belmondo s'est changé les idées le week-end dernier en compagnie de leur fils Victor.\nVictor Belmondo, qui a reçu un Espoir Award, entouré par ses parents Paul et Luana durant la soirée de clôture du 20eme Monte Carlo Film Festival de la Comédie, au Grimaldi Forum à Monaco. Le 29 avril 2023. © Bruno Bebert / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759287-aimant-relever-des-defils-le-tandem-a-p-580x0-4.jpg",
+   "text": "Aimant relever des défils, le tandem a participé au \"Marathon pour tous\" organisé pour la première fois dans le cadre des JO de Paris.\nPaul, Luana et Victor Belmondo durant la soirée de clôture du 20eme Monte Carlo Film Festival de la Comédie, au Grimaldi Forum à Monaco. Le 29 avril 2023. © Bruno Bebert / Bestimage Le"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759289-parmi-des-milliers-de-coureurs-amateurs-580x0-4.jpg",
+   "text": "Parmi des milliers de coureurs amateurs, Paul et Victor Belmondo ont su se distinguer... Puisqu'ils ont tous deux glané des médailles !\nA rappeler que le début de la course a été actée en début de soirée depuis l'Hôtel de Ville de la capitale française. \nLuana Belmondo, son mari Paul Belmondo et leur fils Victor - Soirée de clôture du 20eme Monte Carlo Film Festival de la Comédie, au Grimaldi Forum à Monaco. Le 29 avril 2023. © Claudia Albuquerque / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759302-le-pilote-automobile-a-bien-evidemment-i-580x0-4.jpg",
+   "text": "Le pilote automobile a bien évidemment immortalisé ce moment fort sur la Toile : \"Bravo mon Victor pour ta performance au Marathon pour tous des JO (...). Même si pour moi c'était que le 10km\".\nPaul et son fils Victor Belmondo au \"Marathon pour Tous\" ce samedi à Paris.\n(Capture d'écran Instagram)"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759306-luana-belmondo-a-egalement-salue-l-explo-580x0-4.jpg",
+   "text": "Luana Belmondo a également salué l'exploit de son fiston sur son compte Instagram.\nLuana Belmondo a félicité son fils Victor après sa participation au Marathon pour tous"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759283-exclusif-paul-belmondo-et-son-ex-femme-580x0-4.jpg",
+   "text": "Exclusif - Paul Belmondo et son ex-femme Luana (habillée par Marina Rinaldi, chaussures Roger Vivier) - Dîner de l'association AEM (Un Avenir pour les Enfants du Monde), au profit des enfants du Rwanda par Babeth Djian au pavillon Ledoyen à Paris. Le 23 mars 2023 © Olivier Borde-Bertrand Rindoff Petroff / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759285-paul-et-luana-belmondo-durant-la-soiree-580x0-3.jpg",
+   "text": "Paul et Luana Belmondo durant la soirée de clôture du 20eme Monte Carlo Film Festival de la Comédie, au Grimaldi Forum à Monaco. Le 29 avril 2023. © Bruno Bebert / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759288-paul-et-luana-belmondo-premiere-du-fil-580x0-3.jpg",
+   "text": "Paul et Luana Belmondo - Première du film \"Indiana Jones et le Cadran de la destinée\" au cinéma Le Grand Rex à Paris le 26 juin 2023. © Coadic Guirec/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759290-paul-belmondo-et-sa-femme-luana-belmondo-580x0-3.jpg",
+   "text": "Paul Belmondo et sa femme Luana Belmondo, Anthony Delon - Inauguration de \"La promenade Jean-Paul Belmondo\" au terre-plein central du pont de Bir-Hakeim, ouvrage public communal situé sous le viaduc du métro aérien, à Paris (15e, 16e) le 12 avril 2023.© Cyril Moreau/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759291-luana-belmondo-victor-belmondo-alessan-580x0-3.jpg",
+   "text": "Luana Belmondo, Victor Belmondo, Alessandro Belmondo - Obsèques de Jean-Paul Belmondo en en l'église Saint-Germain-des-Prés, à Paris le 10 septembre 2021. © Cyril Moreau / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759292-paul-belmondo-et-sa-femme-luana-belmondo-580x0-3.jpg",
+   "text": "Paul Belmondo et sa femme Luana Belmondo - en backstage lors du deuxième jour du concert de Patrick Bruel lors de sa tournée \"Ce soir on sort...\" à Paris La Défense Arena le 7 décembre 2019. © Coadic Guirec/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759293-paul-belmondo-et-son-ex-femme-luana-arri-580x0-3.jpg",
+   "text": "Paul Belmondo et son ex-femme Luana arrivent à la 9ème édition du \"Global Gift Gala\" à l'hôtel Four Seasons George V à Paris, le 25 avril 2018. © Denis Guignebourg/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759294-exclusif-alessandro-belmondo-alessan-580x0-3.jpg",
+   "text": "Exclusif - Alessandro Belmondo - Alessandro Belmondo, le fils de P. et L. Belmondo est chef cuisinier dans le nouveau restaurant \"Il Cara Rosso\" dont c'est l'inauguration ce jour, à Saint-Cloud le 31 janvier 2018. © Denis Guignebourg/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759295-luana-et-paul-belmondo-avant-premiere-580x0-3.jpg",
+   "text": "Luana et Paul Belmondo - Avant-première du film \"Moi, Tonya\" au cinéma l'UGC Normandie à Paris le 15 janvier 2018. © Coadic Guirec/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759296-paul-belmondo-en-dior-et-chaussures-car-580x0-3.jpg",
+   "text": "Paul Belmondo (en Dior et chaussures Carvil ) et son ex-femme Luana (robe Alzra et Roger Vivier) - Montée des marches de la cérémonie de clôture du 70ème Festival International du Film de Cannes, France, le 28 mai 2017. © Denis Guignebourg/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759297-paul-belmondo-victo-belmondo-annabelle-580x0-3.jpg",
+   "text": "Paul Belmondo, Victo Belmondo, Annabelle Belmondo, Stella Belmondo et son père Jean-Paul Belmondo , Giacomo Belmondo et Luana Belmondo - 42ème cérémonie des César à la salle Pleyel à Paris le 24 février 2017. © Olivier Borde / Dominique Jacovides / Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/0/52/62/00/@/7759299-paul-belmondo-son-ex-femme-luana-et-ant-580x0-3.jpg",
+   "text": "Paul Belmondo, son ex-femme Luana et Anthony Delon lors du photocall du 12ème Gala 2017 de l'Association pour la Recherche sur Alzheimer à la salle Pleyel dans le 8ème arrondissement, à Paris, France le 30 janvier 2017.  © Cyril Moreau/Bestimage"
+  },
+  {
+   "url": "https://static1.purepeople.com/people/5/73/5/@/127422-paul-belmondo-100x100-1.jpg",
+   "text": ""
+  },
+  {
+   "url": "https://static1.purepeople.com/people/5/73/5/@/127422-paul-belmondo-200x200-1.jpg",
+   "text": ""
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/2/52/54/22/@/7744611-luana-belmondo-a-eu-pour-beau-pere-l-ill-105x105-4.jpg",
+   "text": "Luana Belmondo en plein divorce : son illustre beau-père Jean-Paul Belmondo tiendra toujours une grande place dans sa vie, voici pourquoi"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/9/52/48/19/@/7733962-paul-et-luana-belmondo-sont-restes-marie-105x105-4.jpg",
+   "text": "Luana Belmondo en plein divorce avec Paul : elle dévoile un moment précieux aux côtés d'Alessandro et de ses petits-enfants"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/7/52/45/37/@/7728538-luana-belmondo-vient-de-se-dire-prodonfe-105x105-4.jpg",
+   "text": "Suite à l'annonce de son divorce avec Paul Belmondo, Luana Belmondo sort du silence : \"Je suis profondément touchée\""
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/2/52/50/42/@/7738162-paul-belmondo-a-rompu-les-liens-avec-lua-105x105-3.jpg",
+   "text": "Paul Belmondo divorce de Luana : Les quelques mots prononcés à ses 3 fils pour expliquer son départ"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/8/52/44/78/@/7727302-paul-et-luana-belmondo-ont-decide-de-div-105x105-4.jpg",
+   "text": "Paul Belmondo divorce de sa femme Luana après 33 ans d'amour et trois fils, les raisons dévoilées"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/4/52/55/74/@/7747451-a-tout-juste-30-ans-victor-belmondo-a-d-105x105-3.jpg",
+   "text": "Paul et Luana Belmondo, leur fils Victor sans filtre sur leur parcours : \"Il faut avoir la passion\""
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/7/52/61/07/@/7757670-que-sait-on-sur-la-vie-sentimentale-de-t-105x105-3.jpg",
+   "text": "Thierry Henry : Qui est son ex-femme Claire, mère de sa fille Téa et dont il a divorcé en lui laissant une coquette somme ?"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/5/52/61/55/@/7758544-a-la-surprise-generale-paul-et-luana-be-105x105-3.jpg",
+   "text": "Paul Belmondo : Loin de son ex Luana, il s'éclate et donne tout à Paris"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/7/52/48/27/@/7734072-la-rare-photo-de-la-fille-de-bixente-liz-105x105-4.jpg",
+   "text": "Bixente Lizarazu et Claire Keim parents d'Uhaina : cette rare photo de leur fille qui a aujourd'hui 15 ans"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/6/52/45/16/@/7728034-leur-fille-giulia-sarkozy-a-participe-a-105x105-3.jpg",
+   "text": "Giulia Sarkozy : Jeune cavalière impressionnante en compétition à Paris, ses parents Carla Bruni et Nicolas Sarkozy si fiers !"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/4/52/29/34/@/7695053-michael-youn-et-sean-obispo-etaient-pres-105x105-4.jpg",
+   "text": "PHOTOS Sean Obispo : Le grand fils de Pascal Obispo complice avec son beau-père Michael Youn devant le PSG"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/4/52/38/44/@/7713848-laurent-luyat-annonce-une-triste-nouvell-105x105-3.jpg",
+   "text": "Laurent Luyat le coeur brisé : en plein Roland-Garros, l'animateur traverse une épreuve compliquée"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/8/52/61/98/@/7759201-alors-que-les-jeux-olympiques-de-paris-s-105x105-3.jpg",
+   "text": "Kate et William (barbu) révèlent le lieu de leurs vacances dans leur dernière vidéo"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/7/52/61/97/@/7759249-maud-aventuriere-de-koh-lanta-la-trib-105x105-1.jpg",
+   "text": "PORTRAIT Koh-Lanta, La Tribu maudite : Maud, grande championne qui a participé aux Jeux Olympiques !"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/5/52/61/95/@/7759232-grosse-frayeur-pour-angelina-jolie-ang-105x105-4.jpg",
+   "text": "La colère d'Angelina Jolie : son fils Pax miraculé après un accident, elle ne compte pas en rester là et prépare sa riposte"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/9/52/61/99/@/7759209-il-n-y-en-a-jamais-assez-pour-jean-luc-r-105x105-4.jpg",
+   "text": "\"Le tout petit dernier de la famille\" : Jean-Luc Reichmann a agrandi son clan déjà grand et ce n'était pas prévu"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/7/52/61/77/@/7758945-vanessa-candidate-de-koh-lanta-la-tri-105x105-2.jpg",
+   "text": "PORTRAIT Koh-Lanta, La Tribu maudite : Vanessa n'a peur de rien, cette mère de 3 enfants a l'habitude de se battre !"
+  },
+  {
+   "url": "https://static1.purepeople.com/articles/3/52/61/83/@/7758992-avec-les-jeux-olympiques-de-paris-2024-105x105-4.jpg",
+   "text": "Julia Vignali : Quand son absence très longue sur France 2 avec Affaire conclue va-t-elle prendre fin ? La date révélée..."
+  }
+ ]
+}
+```
